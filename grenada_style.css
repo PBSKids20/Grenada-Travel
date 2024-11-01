@@ -26,12 +26,12 @@ li {
 
 a {
 	text-align: center;
-	width: 10%;
+	width: 20%;
 	background-color: gray;
 	border-style: solid;
 	border-color: slategray;
 	border-width: thick;
-	margin: 2px 100%;
+	margin: 2px 0.02%;
 	font-size: 20px;
 	text-decoration: none;
 }
