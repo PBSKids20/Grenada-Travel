@@ -65,4 +65,5 @@ img {
 	background: none;
 	color: blue;
 	text-decoration: underline;
+	outline: none;
 }
