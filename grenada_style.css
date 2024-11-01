@@ -63,6 +63,7 @@ img {
 
 .resources {
 	border-color: none;
+	border-width: 0px;
 	background: none;
 	color: blue;
 	text-decoration: underline;
