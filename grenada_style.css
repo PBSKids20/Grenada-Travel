@@ -65,6 +65,7 @@ img {
 	background: none;
 #by { 
 	text-align: center;
+	margin: 15px auto;
 }
 	color: blue;
 	text-decoration: underline;
